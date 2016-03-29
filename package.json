@@ -1,6 +1,6 @@
 {
   "name": "add-o-matic",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A challenge of adding.",
   "main": "index.js",
   "scripts": {
