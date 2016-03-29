@@ -12,5 +12,8 @@
     "challenge"
   ],
   "author": "James Monger <jameskmonger@hotmail.co.uk> (http://jamesmonger.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^1.8.9"
+  }
 }
