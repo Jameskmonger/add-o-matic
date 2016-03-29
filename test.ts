@@ -1,6 +1,10 @@
 /// <reference path="./modunit.d.ts"/>
 
+declare let require;
+
 import test = require('modunit');
+
+const addomatic = require('./index');
 
 test('(a, b) should return a + b', (t, a, b, expected) => {
 
