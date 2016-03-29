@@ -8,6 +8,9 @@
     "run:test": "node test.js",
     "build": "tsc index.ts test.ts --module commonjs"
   },
+  "files": [
+      "index.js"
+  ],
   "keywords": [
     "add",
     "maths",
