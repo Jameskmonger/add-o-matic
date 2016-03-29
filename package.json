@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm run build && npm run run-test",
+    "test": "npm run build && npm run run:test",
     "run:test": "node test.js",
     "build": "tsc index.ts test.ts --module commonjs",
     "prepublish": "npm run build"
