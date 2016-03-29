@@ -22,5 +22,13 @@
   "devDependencies": {
     "typescript": "^1.8.9",
     "modunit": "^0.1.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jameskmonger/add-o-matic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jameskmonger/add-o-matic/issues"
+  },
+  "homepage": "https://github.com/Jameskmonger/add-o-matic"
 }
