@@ -1,7 +1,7 @@
 {
   "name": "add-o-matic",
   "version": "0.0.1",
-  "description": "",
+  "description": "A challenge of adding.",
   "main": "index.js",
   "scripts": {
     "test": "npm run build && npm run run:test",
