@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "run:test": "node test.js",
     "build": "tsc index.ts test.ts --module commonjs"
   },
   "keywords": [
