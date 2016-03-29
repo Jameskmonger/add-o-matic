@@ -1,6 +1,6 @@
 {
   "name": "add-o-matic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A challenge of adding.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "prepublish": "npm run build"
   },
   "files": [
-      "index.js"
+    "index.js"
   ],
   "keywords": [
     "add",
