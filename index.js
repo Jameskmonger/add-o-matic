@@ -1,2 +1,5 @@
-module.exports = function add() {
+'use strict';
+
+module.exports = function addomatic(a, b) {
+
 };
