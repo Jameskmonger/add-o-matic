@@ -6,7 +6,8 @@
   "scripts": {
     "test": "npm run build && npm run run-test",
     "run:test": "node test.js",
-    "build": "tsc index.ts test.ts --module commonjs"
+    "build": "tsc index.ts test.ts --module commonjs",
+    "prepublish": "npm run build"
   },
   "files": [
       "index.js"
